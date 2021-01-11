@@ -1,0 +1,24 @@
+{
+  "name": "mothership",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reisei231/gora2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reisei231/gora2/issues"
+  },
+  "homepage": "https://github.com/reisei231/gora2#readme",
+  "dependencies": {
+    "steam": "^1.4.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
